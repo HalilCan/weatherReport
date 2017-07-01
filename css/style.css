@@ -1,0 +1,63 @@
+#content-box {
+  padding-top:10px;
+  margin:auto;
+  margin-top: 100px;
+  font-family: Roboto;
+  font-weight: 900;
+  font-size: 3.9vmax;
+  color: white;
+  border-weight: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.weatherContent {
+   display:inline-block;
+}
+
+.weatherText {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+body.clearDay {
+  background="white";
+}
+
+body.clearNight {
+  background="white";
+}
+
+body.rain {
+  background="white";
+}
+
+body.snow {
+  background="white";
+}
+
+body.sleet {
+  background="white";
+}
+
+body.wind {
+  background="white";
+}
+
+body.fog {
+  background="white";
+}
+
+body.cloudy {
+  background="white";
+}
+
+body.partylCloudyDay {
+  background="white";
+}
+
+body.partlyCloudyNight {
+  background="red";
+}

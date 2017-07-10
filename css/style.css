@@ -17,8 +17,16 @@
    display:inline-block;
 }
 
+html {
+  height: 100%;
+}
+
 body {
+  position: relative;
+  height: 100%;
+  width: 100%;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .weatherText {

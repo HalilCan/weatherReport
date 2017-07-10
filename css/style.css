@@ -17,6 +17,10 @@
    display:inline-block;
 }
 
+body {
+  background-size: cover;
+}
+
 .weatherText {
   margin-left: 5px;
   margin-right: 5px;

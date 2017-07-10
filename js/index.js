@@ -91,46 +91,43 @@ function setIcon() {
   switch (a) {
     case "clear-day":
       document.body.style.backgroundImage =
-        "url('http://img12.deviantart.net/8e4f/i/2013/159/0/8/clear_day_by_thorero-d68c8ic.jpg')";
+        "url('https://www.goodfreephotos.com/albums/other-landscapes/clear-da-landscape-by-the-seaside.jpg')"
       break;
     case "clear-night":
       document.body.style.backgroundImage =
-        "url('http://clear-night.com/img/clear-night-placeholder.jpg')";
+        "url('http://ww2.kqed.org/news/wp-content/uploads/sites/10/2014/05/176451971.jpg')";
       break;
     case "rain":
       document.body.style.backgroundImage =
-        "url('https://www.caminodesantiago.me/wp-content/uploads/rain1.jpg')";
+        "url('https://wallpaperscraft.com/image/rain_drops_splashes_heavy_rain_dullness_bad_weather_60638_3840x2400.jpg')";
       break;
     case "snow":
       document.body.style.backgroundImage =
-        "url('https://vignette4.wikia.nocookie.net/phobia/images/a/aa/Snow.jpg/revision/latest?cb=20161109045734')";
+        "url('https://www.walldevil.com/wallpapers/a85/3789-forest-tree-snow-winter.jpg')";
       break;
     case "sleet":
       document.body.style.backgroundImage =
-        "url('')";
+        "url('https://www.disclosurenewsonline.com/wp-content/uploads/2013/02/sleet-1.jpeg')";
       break;
     case "wind":
       document.body.style.backgroundImage =
-        "url('https://energy.gov/sites/prod/files/wv_theme1_image.jpg')";
+        "url('https://cleantechnica.com/files/2016/07/9457907529_9cff96fa90_o.jpg')";
       break;
     case "fog":
       document.body.style.backgroundImage =
-        "url('https://www.howitworksdaily.com/wp-content/uploads/2014/08/fog-06.jpg')";
+        "url('https://static.pexels.com/photos/104907/pexels-photo-104907.jpeg')";
       break;
     case "cloudy":
       document.body.style.backgroundImage =
-        "url('http://wallpapercave.com/wp/SNh7WLs.jpg')";
+        "url('https://static.pexels.com/photos/2083/city-clouds-cloudy-ray-of-sunshine.jpg')";
       break;
     case "partly-cloudy-day":
-      document.body.className = "partlyCloudyDay";
       document.body.style.backgroundImage =
-        "url('http://1.bp.blogspot.com/-Qtl7odNV4zs/UakT687934I/AAAAAAAAGHI/l4s5ix1glco/s1600/IMG_4867.JPG')";
+        "url('http://retouchthesky.com/wp-content/uploads/2014/08/IMG_4952.jpg')";
       break;
     case "partly-cloudy-night":
       document.body.style.backgroundImage =
-        "url('http://wallpapercave.com/wp/3A7MvXm.jpg')";
-
-      document.body.className = "partlyCloudyNight";
+        "url('https://s-media-cache-ak0.pinimg.com/originals/e5/71/99/e57199164150cbe225a1b6c95367c7ca.jpg')";
       break;
     default:
       break;
